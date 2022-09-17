@@ -1,16 +1,11 @@
 # weather
 
-A new Flutter project.
+This project just to understand Clean Architecture concept.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Clean Architecture project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter Clean Architecture 2022 Flutter 3 in arabic](https://www.udemy.com/course/flutter-clean-architecture-2022-flutter-3-in-arabic)
